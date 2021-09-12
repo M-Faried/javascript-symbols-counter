@@ -1,0 +1,25 @@
+{
+  "name": "js-symbols-counter",
+  "version": "1.0.0",
+  "description": "Coutner for the js files programming symbols",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Faried/javascript-symbols-counter.git"
+  },
+  "author": "Mohamed Faried",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M-Faried/javascript-symbols-counter/issues"
+  },
+  "homepage": "https://github.com/M-Faried/javascript-symbols-counter#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security"
+  }
+}
